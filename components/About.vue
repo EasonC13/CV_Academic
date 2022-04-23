@@ -7,13 +7,13 @@
 		</div>
 		<div class="row">
 			<div class="col-md-4 order-md-2">
-				<img class="img-fluid rounded mb-2" src="public/Eason_2022_cut.jpeg">
+				<img class="img-fluid rounded mb-2" src="/Eason_2022_cut.jpeg">
 			</div>
 			<div class="col-md-8 order-md-1">
 				<div class="row container">
 					<div class="order-md-2 text-center">
 						<SocialMediaLinks/>
-						<a class="btn btn-primary btn-icon" href="public/Eason_CV.pdf" target="_blank" rel="tooltip" title="">Click here to view my CV</a>
+						<a class="btn btn-primary btn-icon" href="/Eason_CV.pdf" target="_blank" rel="tooltip" title="">Click here to view my CV</a>
 						<!-- <a class="ml-3 btn btn-primary btn-icon" href="public/Eason_CV.pdf" target="_blank" rel="tooltip" title="">中文版網頁</a> -->
 						<hr class="d-md-none">
 					</div>
