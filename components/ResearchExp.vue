@@ -2,9 +2,9 @@
   <div class="">
     <h2>Research Experience</h2>
     <div>
-      <h5 class="mb-1">
+      <h3 class="h5 mb-1">
         Undergraduate Research Project Principal Investigator (2021/06 - 2022/02)
-      </h5>
+      </h3>
       <ul>
         <li>Researched on Building Natural Language Generation Chatbots which features multiple-reply and custom avatars with chosen emotion</li>
         <li>Compared the user experience of different chatbot designs</li>
@@ -12,9 +12,9 @@
       </ul>
     </div>
     <div>
-      <h5 class="mb-1">
+      <h3 class="h5 mb-1">
         Google Summer of Code Mentee (2021/05 - 2021/09)
-      </h5>
+      </h3>
       <ul>
         <li>Contributed to Accord Project, an open source framework for Smart Legal Contracts</li>
         <li>Researched on Conversion of Raw Text Legal Agreements into Smart Legal Contracts using NLP</li>
@@ -23,9 +23,9 @@
       </ul>
     </div>
         <div>
-      <h5 class="mb-1">
+      <h3 class="h5 mb-1">
         Research Assistant (2019/04 - Present)
-      </h5>
+      </h3>
       <ul>
         <li>Served as RA for 7 professors with various topics at NTNU and National Taiwan University</li>
         <li>Developed interactive creativity task platform and analyze the data, results published to SSCI journal</li>
