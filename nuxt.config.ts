@@ -32,8 +32,8 @@ export default defineNuxtConfig({
           }
         ],
         link: [
-          { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' ,
-            note: 'Icon from https://templateflip.com/templates/creative-cv/'},
+          // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' ,
+          //   note: 'Icon from https://templateflip.com/templates/creative-cv/'},
           {
             href: "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css",
             rel: "stylesheet",
