@@ -1,5 +1,5 @@
 <template lang="">
-  <div class="mt-5">
+  <div class="">
 		<div class="row mb-3">
 			<div class="col">
 				<h1 @click='log("Hello World")'>Eason Chen</h1>
@@ -7,7 +7,9 @@
 		</div>
 		<div class="row">
 			<div class="col-md-4 order-md-2">
-				<img class="img-fluid rounded mb-2" src="/Eason_2022_cut.jpeg"
+				<img class="img-fluid rounded mb-2 d-md-block d-none" src="/Eason_2022_cut_higher.jpeg"
+				 alt="Eason in a formal suit">
+				<img class="img-fluid rounded mb-2 d-md-none" src="/Eason_2022_cut.jpeg"
 				 alt="Eason in a formal suit">
 			</div>
 			<div class="col-md-8 order-md-1">
@@ -22,7 +24,7 @@
 						<p>Hi, I'm a senior at National Taiwan Normal University (NTNU). Eason is the same pronunciation as my Chinese name 怡升 (I-Sheng), which means moving onward and upward with a joyful mind.</p>
 						<p>I am a passionate researcher. So far, I have participated in several research projects and published 7 papers in AI, Human-Computer Interaction, and Blockchain.</p>
 						<p>Moreover, I love to use my programming skills and creativity to solve problems. Currently, I serve as Research Assistant at school and Blockchain R&D Engineer at Cohart.co.</p>
-						<p>I plan to start my PhD in US or UK in 2023 Fall. Now I'm looking for program, lab, professor, and scholarship. If you have potential opportunity, don't hesitate to get in touch with me at <a  target="_blank" href = "mailto: eason.tw.chen@gmail.com">eason.tw.chen@gmail.com</a>.</p>	
+						<p>I plan to start my PhD in US or UK in 2023 Fall. Now I'm looking for program, lab, professor, and scholarship. If you have potential opportunity, don't hesitate to get in touch with me at <a target="_blank" href = "mailto: eason.tw.chen@gmail.com">eason.tw.chen@gmail.com</a></p>	
 					</div>
 				</div>
 			</div>
