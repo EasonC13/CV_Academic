@@ -40,6 +40,7 @@ export default defineNuxtConfig({
           {
             href: "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css",
             rel: "stylesheet",
+            defer: true,
           },
           {
             rel: "stylesheet",
