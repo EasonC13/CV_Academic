@@ -7,7 +7,8 @@
 		</div>
 		<div class="row">
 			<div class="col-md-4 order-md-2">
-				<img class="img-fluid rounded mb-2" src="/Eason_2022_cut.jpeg">
+				<img class="img-fluid rounded mb-2" src="/Eason_2022_cut.jpeg"
+				 alt="Eason in a formal suit">
 			</div>
 			<div class="col-md-8 order-md-1">
 				<div class="row container">
