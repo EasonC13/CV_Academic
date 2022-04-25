@@ -4,6 +4,9 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
     app:{
       head: {
+        htmlAttrs: {
+          lang: 'en'
+        },
         title: 'Eason Chen',
         meta: [
           { charset: 'utf-8' },
@@ -33,7 +36,7 @@ export default defineNuxtConfig({
         ],
         link: [
           // note: 'Icon from https://templateflip.com/templates/creative-cv/'
-          { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
+          { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico'},
           {
             href: "https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css",
             rel: "stylesheet",

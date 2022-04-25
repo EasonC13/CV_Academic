@@ -2,7 +2,7 @@
   <div class="mt-5">
 		<div class="row mb-3">
 			<div class="col">
-				<h1>Eason Chen</h1>
+				<h1 @click='log("Hello World")'>Eason Chen</h1>
 			</div>
 		</div>
 		<div class="row">
@@ -39,7 +39,12 @@ export default {
 	setup(){
 		let a = 3
 		console.log(a)
-	}
+	},
+	methods: {
+		log: function(data){
+			console.log(data)
+		}
+	},
 }
 </script>
 <style>
