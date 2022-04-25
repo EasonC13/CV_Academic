@@ -24,6 +24,13 @@ export default defineNuxtConfig({
         ],
         script: [
           {
+            src: "https://www.googletagmanager.com/gtag/js?id=G-TD8VPM8J5E",
+            defer: true,
+          },
+          {
+            src: "/utils/gtag.js",
+          },
+          {
             src: "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js",
             integrity: "sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj",
             crossorigin:"anonymous"
