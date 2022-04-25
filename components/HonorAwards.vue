@@ -1,6 +1,6 @@
 <template lang="">
   <div class="">
-    <h2>Honor and Awards</h2>
+    <h2>Honors & Awards</h2>
 		<ul>
       <li>Mensa Member</li>
       <li>Dean's List</li>
