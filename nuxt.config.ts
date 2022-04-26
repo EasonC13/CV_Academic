@@ -12,7 +12,7 @@ export default defineNuxtConfig({
           { charset: 'utf-8' },
           { name: 'viewport', content: 'width=device-width, initial-scale=1' },
           { name: 'title', content: `Eason Chen` },
-          // { name: 'description', content: `TBD` },
+          { name: 'description', content: `The CV of Eason Chen, a passionate researcher who love to use programming skills and creativity to solve problems.` },
           { name: 'og:title', content: `Eason Chen` },
           { name: 'og:image', content: `https://eason.best/og_image.jpeg` },
           { name: 'og:url', content: `https://eason.best` },
