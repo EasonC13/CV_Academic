@@ -16,7 +16,9 @@
       <hr>
       <Publications/>
       <hr>
-      <PublicSpeakingExp/>
+      <CommunityExp/>
+      <!-- <hr>
+      <PublicSpeakingExp/> -->
       <hr>
       <HonorAwards/>
     </div>

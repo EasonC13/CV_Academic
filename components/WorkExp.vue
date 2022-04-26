@@ -15,7 +15,7 @@
         R&D Engineer at FiO.one (2019/06 - 2021/12)
       </h3>
       <ul>
-        <li>Built easy-to-use Blockchain Applications on IOTA and Ethereum</li>
+        <li>Built easy-to-use Blockchain Applications on Ethereum and IOTA</li>
         <li>Received Best Intern Award for my implementation of data authentication process on FiO’s product</li>
         <li>Researched on Blockchain Performance Optimization and Cloud Solution, results are patent pending</li>
       </ul>
