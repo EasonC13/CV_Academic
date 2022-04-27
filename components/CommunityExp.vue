@@ -3,7 +3,7 @@
     <h2>Community Experience</h2>
     <div>
       <h3 class="h5 mb-1">
-        Google Developer Student Club (GDSC) Lead
+        NTNU Google Developer Student Club (GDSC) Lead (2021)
       </h3>
       <ul>
         <!-- <li>Lead (2021) and Core Team Member (2022) at NTNU</li> -->
