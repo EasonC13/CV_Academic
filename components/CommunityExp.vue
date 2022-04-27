@@ -3,10 +3,10 @@
     <h2>Community Experience</h2>
     <div>
       <h3 class="h5 mb-1">
-        NTNU Google Developer Student Club (GDSC) Lead (2021)
+        NTNU Google Developer Student Club (NTNU GDSC)
       </h3>
       <ul>
-        <!-- <li>Lead (2021) and Core Team Member (2022) at NTNU</li> -->
+        <li>Founder and Leader (2021)</li>
         <li>Hosted 3 workshops for 50+ students about Developing Python FastAPI and Chatbot</li>
         <li>Addressed Community Talk about Google Summer of Code Experience and Tips to Apply</li>
       </ul>
