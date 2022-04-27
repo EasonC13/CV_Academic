@@ -21,6 +21,7 @@ export default defineNuxtConfig({
           // { name: 'twitter:description', content: `` },
           { name: 'twitter:image', content: `https://eason.best/og_image.jpeg` },
           { name: 'twitter:creator', content: `@Eason_C13` },
+          { name: 'google-site-verification', content: 'auUb0qKw6LnnH0N_zrY9XhA4BAbFBAH6CnbY-kiUM0Y'},
         ],
         script: [
           {
