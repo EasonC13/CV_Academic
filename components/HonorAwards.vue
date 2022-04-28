@@ -4,9 +4,9 @@
 		<ul>
       <li>Mensa Member</li>
       <li>Dean's List at NTNU</li>
-      <li>2021 Excellent Student Award at NTNU</li>
-      <li>2019 First Place of NTNU’s Freshman Oral expression Competition</li>
-      <li>All five of the NTNU's Five Virtue Education Awards: Ethic, Intellectual, Physical, Social, and Aesthetic</li>
+      <li>2021 Excellent Student Award and Scholarship at NTNU</li>
+      <li>2019 First Place of NTNU’s Freshman Oral Expression Competition</li>
+      <li>All five of the NTNU's Five Virtue Education Awards and Scholarship: Ethic, Intellectual, Physical, Social, and Aesthetic</li>
     </ul>
 	</div>
 </template>
