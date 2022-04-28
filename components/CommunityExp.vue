@@ -6,7 +6,7 @@
         NTNU Google Developer Student Club (NTNU GDSC)
       </h3>
       <ul>
-        <li>Founder and Leader (2021)</li>
+        <li>Founder and Leader (2020 - 2021)</li>
         <li>Hosted 3 workshops for 50+ students about Developing Python FastAPI and Chatbot</li>
         <li>Addressed Community Talk about Google Summer of Code Experience and Tips to Apply</li>
       </ul>
