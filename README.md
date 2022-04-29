@@ -46,7 +46,7 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) f
 
 > This part need to be refined and revised
 
-> The script is at [`./github/workflows/node.js.yml`](./github/workflows/node.js.yml)
+> The script is at [`./.github/workflows/node.js.yml`](./github/workflows/node.js.yml)
 ### 1. Add CI/CD Access Token
 
 Add your personal access token to the `Settings>Secrets>Actions` with Key `GH_TOKEN`. [(Click me to know how to create personal access token.)](https://www.google.com/search?q=how+to+get+personal+access+token+github)
@@ -55,7 +55,7 @@ Add your personal access token to the `Settings>Secrets>Actions` with Key `GH_TO
 
 ### 2. Specify domain name
 
-Change the cname in [package.json](./package.json) to the domain name you want to use.
+Change the domain of script `npm run cname` at [package.json](./package.json) to the domain name you want to use.
 <br>If none, ~~please by one~~ remove the url but keep the script.
 
 ![](https://i.imgur.com/aEzOjID.png)
