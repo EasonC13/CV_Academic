@@ -46,10 +46,11 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) f
 
 > This part need to be refined and revised
 
-> The script is at [`./.github/workflows/node.js.yml`](./github/workflows/node.js.yml)
+> The script is at `.github/workflows/node.js.yml`](./.github/workflows/node.js.yml)
 ### 1. Add CI/CD Access Token
 
-Add your personal access token to the `Settings>Secrets>Actions` with Key `GH_TOKEN`. [(Click me to know how to create personal access token.)](https://www.google.com/search?q=how+to+get+personal+access+token+github)
+Add your personal access token to the `Settings>Secrets>Actions` with Key `GH_TOKEN`. 
+[(Click me to know how to create personal access token.)](https://www.google.com/search?q=how+to+get+personal+access+token+github)
 
 ![](https://i.imgur.com/xfpPUF3.png)
 
