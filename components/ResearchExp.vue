@@ -29,7 +29,7 @@
       <ul>
         <li>Served as RA for 7 professors with various topics at NTNU and National Taiwan University</li>
         <li>Developed interactive creativity task platform and analyze the data, results published to SSCI journal</li>
-        <li>Using GPT-2, GPT-3 and BERT, built NLP chatbots with emotional and empathetic conversational abilities</li>
+        <li>Using GPT-2, GPT-3 and BERT to build NLP chatbots with emotional and empathetic conversational abilities</li>
         <li>Designed Integrated Data Export Pipeline by Google Cloud APIs, export data as PLS-SEM statistics input</li>
       </ul>
     </div>
