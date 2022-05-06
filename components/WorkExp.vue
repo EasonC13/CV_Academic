@@ -2,8 +2,9 @@
   <div class="">
     <h2>Work Experience</h2>
     <div>
-      <h3 class="h5 mb-1">
-        R&D Engineer at Cohart.co (2022/04 - Present)
+      <h3 class="h5 mb-1 clearfix">
+        <span class="float-left">R&D Engineer at Cohart.co</span>
+        <span class="float-right">2022/04 - Present</span>
       </h3>
       <ul>
         <li>Research on Non-fungible token (NFT) Solutions for Art Creators on Ethereum Blockchain</li>
@@ -11,8 +12,9 @@
       </ul>
     </div>
     <div>
-      <h3 class="h5 mb-1">
-        R&D Engineer at FiO.one (2019/06 - 2021/12)
+      <h3 class="h5 mb-1 clearfix">
+        <span class="float-left">R&D Engineer at FiO.one</span>
+        <span class="float-right">2019/06 - 2021/12</span>
       </h3>
       <ul>
         <li>Built easy-to-use Blockchain Applications on Ethereum and IOTA</li>
