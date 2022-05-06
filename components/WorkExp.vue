@@ -2,9 +2,9 @@
   <div class="">
     <h2>Work Experience</h2>
     <div>
-      <h3 class="mb-1 clearfix">
-        <span class="h5 float-left">R&D Engineer at Cohart.co</span>
-        <span class="ml-3 h6 float-right">2022/04 - Present</span>
+      <h3 class="mb-1 clearfix rotate180">
+        <span class="ml-3 h6 mb-0 float-left rotate180">2022/04 - Present</span>
+        <span class="h5 mb-0 float-right rotate180">R&D Engineer at Cohart.co</span>
       </h3>
       <ul>
         <li>Research on Non-fungible token (NFT) Solutions for Art Creators on Ethereum Blockchain</li>
@@ -12,9 +12,9 @@
       </ul>
     </div>
     <div>
-      <h3 class="mb-1 clearfix">
-        <span class="h5 float-left">R&D Engineer at FiO.one</span>
-        <span class="ml-3 h6 float-right">2019/06 - 2021/12</span>
+      <h3 class="mb-1 clearfix rotate180">
+        <span class="ml-3 h6 mb-0 float-left rotate180">2019/06 - 2021/12</span>
+        <span class="h5 mb-0 float-right rotate180">R&D Engineer at FiO.one</span>
       </h3>
       <ul>
         <li>Built easy-to-use Blockchain Applications on Ethereum and IOTA</li>

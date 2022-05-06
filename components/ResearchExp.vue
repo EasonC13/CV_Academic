@@ -2,9 +2,9 @@
   <div class="">
     <h2>Research Experience</h2>
     <div>
-      <h3 class="mb-1 clearfix">
-        <span class="h5 float-left">Undergraduate Research Project Principal Investigator</span>
-        <span class="ml-3 h6 float-right">2021/06 - 2022/02</span>
+      <h3 class="mb-1 clearfix rotate180">
+        <span class="ml-3 h6 mb-0 float-left rotate180">2021/06 - 2022/02</span>
+        <span class="h5 mb-0 float-right rotate180">Undergraduate Research Project Principal Investigator</span>
       </h3>
       <ul>
         <li>Researched on Building and Evaluating Natural Language Generation Chatbots with Multiple Replies</li>
@@ -13,9 +13,9 @@
       </ul>
     </div>
     <div>
-      <h3 class="mb-1 clearfix">
-        <span class="h5 float-left">Google Summer of Code Mentee</span>
-        <span class="ml-3 h6 float-right">2021/05 - 2021/09</span>
+      <h3 class="mb-1 clearfix rotate180">
+        <span class="ml-3 h6 mb-0 float-left rotate180">2021/05 - 2021/09</span>
+        <span class="h5 mb-0 float-right rotate180">Google Summer of Code Mentee</span>
       </h3>
       <ul>
         <li>Contributed to Accord Project, an open source framework for Smart Legal Contracts</li>
@@ -25,9 +25,9 @@
       </ul>
     </div>
     <div>
-      <h3 class="mb-1 clearfix">
-        <span class="h5 float-left">Research Assistant</span>
-        <span class="ml-3 h6 float-right">2019/04 - Present</span>
+      <h3 class="mb-1 clearfix rotate180">
+        <span class="ml-3 h6 mb-0 float-left rotate180">2019/04 - Present</span>
+        <span class="h5 mb-0 float-right rotate180">Research Assistant</span>
       </h3>
       <ul>
         <li>Served as RA for 7 professors with various topics at NTNU and National Taiwan University</li>
@@ -66,6 +66,12 @@ export default {
   
 }
 </script>
-<style lang="">
-  
+<style>
+  .rotate180{
+    -webkit-transform:rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
 </style>
