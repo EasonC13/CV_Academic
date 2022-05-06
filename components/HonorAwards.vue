@@ -7,6 +7,7 @@
       <li>2021 Excellent Student Award and Scholarship at NTNU</li>
       <li>2019 First Place of NTNU’s Freshman Oral Expression Competition</li>
       <li>All five of the NTNU's Five Virtue Education Awards and Scholarship: Ethic, Intellectual, Physical, Social, and Aesthetic</li>
+      <!-- <li>2nd Place at Hacks In Taiwan Conference (HITCON) 2021 Malware Playground Competition</li> -->
     </ul>
 	</div>
 </template>
