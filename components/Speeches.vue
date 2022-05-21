@@ -1,6 +1,6 @@
 <template lang="">
   <div class="" id="Speeches">
-    <h2>Community & Public Speaking Experience</h2>
+    <h2>Public Speaking & Community Experience</h2>
     <div>
       <h3 class="h5 mb-1">
         NTNU Google Developer Student Club (NTNU GDSC)
