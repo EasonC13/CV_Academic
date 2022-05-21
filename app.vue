@@ -16,7 +16,7 @@
       <hr>
       <Publications/>
       <hr>
-      <CommunityExp/>
+      <Speeches/>
       <!-- <hr>
       <PublicSpeakingExp/> -->
       <hr>
