@@ -1,5 +1,5 @@
 <template lang="">
-  <div>
+  <div id="ProgrammingSkills">
     <h2>Programming Skills</h2>
     <ul>
       <li><b>Blockchain</b>: Solidity, Hardhat, Truffle, Brownie, IOTA, Bitcoin, IPFS, Smart Legal Contract, OpenCerts</li>

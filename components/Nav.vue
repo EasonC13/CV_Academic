@@ -1,17 +1,38 @@
 <template lang="">
   <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Eason's CV</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light smart-scroll">
+      <a class="navbar-brand" href="#">Eason Chen</a>
+      <button id='navbarToggler' class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <!-- <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="#About" @click.prevent="to">About</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item active">
+            <a class="nav-link" href="#Education" @click.prevent="to">Education</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#ResearchExp" @click.prevent="to">Research</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#WorkExp" @click.prevent="to">Work</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#ProgrammingSkills" @click.prevent="to">Skills</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#Publications" @click.prevent="to">Publications</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#Speeches" @click.prevent="to">Speeches</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#Honors" @click.prevent="to">Honors & Awards</a>
+          </li>
+          <!-- <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
           </li>
           <li class="nav-item dropdown">
@@ -27,21 +48,68 @@
           </li>
           <li class="nav-item">
             <a class="nav-link disabled">Disabled</a>
-          </li>
+          </li> -->
         </ul>
-        <form class="form-inline my-2 my-lg-0">
+        <!-- <form class="form-inline my-2 my-lg-0">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </div> -->
+        </form> -->
+      </div>
     </nav>
   </div>
 </template>
 <script>
 export default {
-  
+  mounted(){
+    // add padding top to show content behind navbar
+    $('body').css('padding-top', $('.navbar').outerHeight() + 'px')
+
+    // detect scroll top or down
+    if ($('.smart-scroll').length > 0) { // check if element exists
+        var last_scroll_top = 0;
+        let scroll_top;
+        $(window).on('scroll', function() {
+            scroll_top = $(this).scrollTop();
+            if(scroll_top < last_scroll_top) {
+                $('.smart-scroll').removeClass('scrolled-down').addClass('scrolled-up');
+            }
+            else {
+                $('.smart-scroll').removeClass('scrolled-up').addClass('scrolled-down');
+            }
+            last_scroll_top = scroll_top;
+        });
+    }
+  },
+  methods: {
+    hideNav(){
+      let navbarToggler = $('#navbarToggler')
+      if(navbarToggler[0].ariaExpanded){
+        navbarToggler.click()
+      }
+    },
+    to(event){
+      this.hideNav()
+      let arr = event.target.href.split("/")
+      let hash = arr[arr.length - 1]
+      let elmntToView = document.getElementById(hash.replace("#", ""));
+      elmntToView.scrollIntoView({behavior: "instant"}); 
+      window.location.hash = hash
+    }
+  }
 }
 </script>
-<style lang="">
-  
+<style scoped>
+  .smart-scroll{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+  .scrolled-down{
+    transform:translateY(-100%); transition: all 0.3s ease-in-out;
+  }
+  .scrolled-up{
+    transform:translateY(0); transition: all 0.3s ease-in-out;
+  }
 </style>

@@ -1,6 +1,6 @@
 <template lang="">
-  <div class="">
-    <h2>Community Experience</h2>
+  <div class="" id="Speeches">
+    <h2>Speeches</h2>
     <div>
       <h3 class="h5 mb-1">
         NTNU Google Developer Student Club (NTNU GDSC)
@@ -28,6 +28,14 @@
       <ul>
         <li>2021/08 - Talk: How to Raise an NLP AI Chatbot?</li>
         <li>2020/08 - Talk: Can I use Python to control my computer?</li>
+      </ul>
+    </div>
+    <div>
+      <h3 class="h5 mb-1">
+        Others (Selected)
+      </h3>
+      <ul>
+        <li>‧	Delivered various Lectures at community, student clubs, course lecture, and workshops</li>
       </ul>
     </div>
 	</div>

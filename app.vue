@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <Nav></Nav> -->
+    <Nav></Nav>
     <div class="container">
       <div class="mt-5 d-md-block d-none"></div>
       <div class="mt-3 d-md-none"></div>
