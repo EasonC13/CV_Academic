@@ -32,6 +32,9 @@
           <li class="nav-item active">
             <a class="nav-link" href="#Honors" @click.prevent="to">Honors & Awards</a>
           </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#Languages" @click.prevent="to">Languages</a>
+          </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
           </li>

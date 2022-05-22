@@ -21,6 +21,8 @@
       <PublicSpeakingExp/> -->
       <hr>
       <HonorAwards/>
+      <hr>
+      <Languages/>
     </div>
     <Footer/>
   </div>
