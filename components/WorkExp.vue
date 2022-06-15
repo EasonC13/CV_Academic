@@ -6,7 +6,7 @@
         R&D Engineer at Cohart.co (2022/04 - Present)
       </h3>
       <ul>
-        <li>Co-work with teammates from Vietnam, Malaysia, Turkey, and US</li>
+        <li>Co-work with teammates from Vietnam, Malaysia, Türkiye, and US</li>
         <li>Research on Non-fungible token (NFT) Solutions for Art Creators on Ethereum Blockchain</li>
         <li>Educate colleagues on tips and principles for developing Blockchain applications</li>
       </ul>
