@@ -37,7 +37,7 @@ export default {
         {
           name: 'Yuen-Hsien Tseng',
           title: 'Distinguished Professor at National Taiwan Normal University',
-          relation: 'Yuen-Hsien was Eason’s thesis advisor',
+          relation: 'Yuen-Hsien was Eason’s thesis advisor at NTNU',
           date: 'May 22, 2022',
           image: '/assets/recommendation_imgs/samTseng.png',
           text_full: `Among the undergraduate students I have taught for more than 20 years, Eason is the most clever and diligent student I have ever seen so far. He is enthusiastic to learn things about NLP/AI techniques and applications. Therefore, he has developed quite a few applications that impressed me, examples including an embedding-based move recommender via LINE chatbot (with similar movies in 2-D visualized graph in the LINE chatbot interface), not only duplicating our research output (an emotional chatbot system) but also improving the system by allowing multiple responses with a solid evaluation experiment, and an edge-computing based eye-tracking and emotional face recognition system applied in an online learning scenario to improve individual's self-regulated learning.\n\nHe did not only develop application systems quickly but also evaluated their use in practical applications based on what he learned in his major, I.e., learning science, which often integrates the knowledge from psychology, .human behavior, advanced statistics, and information technology.\n\nHe also devoted himself to scientific paper writing and therefore has several papers accepted in refereed international conferences. I have never heard of any undergraduate students in Taiwan who could have more than 7 papers accepted before their graduation, except Easton.\n\nI would like to keep him beside me to do more research and develop more exciting applications in NLP, AI, or education. However, I also wish him to go outside to experience a broader career opportunity which I believe will benefit us all, as he is able to do something useful in academics and industrial sectors.`,
@@ -46,7 +46,7 @@ export default {
         {
           name: 'George Chu',
           title: 'Founder and CEO of FiO',
-          relation: 'George Managed Eason directly',
+          relation: 'George Managed Eason directly at FiO',
           date: 'May 20, 2022',
           image: '/assets/recommendation_imgs/GeorgeChu.png',
           text_full: null,

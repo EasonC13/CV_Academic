@@ -23,10 +23,10 @@
       <HonorAwards/>
       <hr>
       <Languages/>
-      <!-- <hr> -->
+      <hr>
       <!-- <Testimonial/>
       <TestimonialColumnVer/> -->
-      <TestimonialAccordion/>
+      <RecommendationAccordion/>
     </div>
     <Footer/>
   </div>
