@@ -148,7 +148,13 @@ export default {
           const ele = toBeTransforms[index];
           ele.style.color = 'white'
           ele.style.backgroundColor = 'black'
-        }
+          if([...ele.classList].includes('card')){
+            ele.style.border = '1px solid rgba(255,255,255,.425)'
+          }
+        };
+        [...document.getElementsByTagName('hr')].forEach((ele) => {
+          ele.style.borderTop = '1px solid rgba(255,255,255,.425)'
+        });
         [...document.getElementsByClassName('text-secondary')].forEach((ele) => {
           ele.classList.add('color-light-gray')
         });
@@ -168,7 +174,13 @@ export default {
           const ele = toBeTransforms[index];
           ele.style.color = '#212529'
           ele.style.backgroundColor = '#fff'
-        }
+          if([...ele.classList].includes('card')){
+            ele.style.border = ''
+          }
+        };
+        [...document.getElementsByTagName('hr')].forEach((ele) => {
+          ele.style.borderTop = ''
+        });
         [...document.getElementsByClassName('text-secondary')].forEach((ele) => {
           ele.classList.remove('color-light-gray')
         });
