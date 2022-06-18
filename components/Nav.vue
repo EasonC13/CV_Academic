@@ -81,10 +81,12 @@ export default {
       darkMode: false
     }
   },
-  mounted(){
+  async mounted(){
     // detect dark mode
-    if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
-      this.switchDark()
+    if(window.matchMedia &&
+       window.matchMedia('(prefers-color-scheme: dark)').matches &&
+       (await cookieStore.get("useDarkMode")).value != 'false'){
+      await this.switchDark()
     }
 
     // add padding top to show content behind navbar
@@ -121,13 +123,23 @@ export default {
       elmntToView.scrollIntoView({behavior: "instant"}); 
       window.location.hash = hash
     },
-    switchDark(){
+    async setUseDarkModeCookie(bool){
+      const day = 24 * 60 * 60 * 1000;
+      console.log('cookieStore.set')
+      await cookieStore.set({
+        name: "useDarkMode",
+        value: bool,
+        expires: Date.now() + day
+      });
+    },
+    async switchDark(){
       let nav = document.getElementById('navbar')
       let body = document.getElementsByTagName('body')[0]
       let cards = document.getElementsByClassName('card')
       let toBeTransforms = [body, ...cards]
       if(!this.darkMode){
         this.darkMode = true
+        await this.setUseDarkModeCookie(true)
         nav.classList.add('navbar-dark')
         nav.classList.add('bg-dark')
         nav.classList.remove('navbar-light')
@@ -146,6 +158,8 @@ export default {
         });
       }else{
         this.darkMode = false
+        await this.setUseDarkModeCookie(false)
+        localStorage.removeItem('preferDarkMode')
         nav.classList.remove('navbar-dark')
         nav.classList.remove('bg-dark')
         nav.classList.add('navbar-light')
