@@ -6,7 +6,7 @@
       <li>Five Virtue Awards at NTNU Graduation Ceremony (2022)</li>
       <li>Excellent Student Award and Scholarship at NTNU (2021)</li>
       <li>Dean's List at NTNU (2021)</li>
-      <li>Mensa Member (2019 - )</li>
+      <li>Mensa Member</li>
       <li>First Place of NTNU’s Freshman Oral Expression Competition (2019)</li>
       
       <!-- <li>Collected all five of the NTNU's Five Virtue Awards: Moral, Intellectual, Physical, Social, and Aesthetic</li> -->
