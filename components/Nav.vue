@@ -1,6 +1,6 @@
 <template lang="">
   <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light smart-scroll">
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light smart-scroll">
       <a class="navbar-brand" href="#">Eason Chen</a>
       <button id='navbarToggler' class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -60,13 +60,33 @@
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form> -->
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <button class="btn nav-link" v-if="!darkMode" @click="switchDark">
+            <i class="fa fa-moon-o"></i> Dark Mode
+          </button>
+          <button class="btn nav-link" v-if="darkMode" @click="switchDark">
+            <i class="fa fa-sun-o"></i> Bright Mode
+          </button>
+        </li>
+      </ul>
       </div>
     </nav>
   </div>
 </template>
 <script>
 export default {
+  data(){
+    return {
+      darkMode: false
+    }
+  },
   mounted(){
+    // detect dark mode
+    if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
+      this.switchDark()
+    }
+
     // add padding top to show content behind navbar
     $('body').css('padding-top', $('.navbar').outerHeight() + 'px')
 
@@ -100,10 +120,62 @@ export default {
       let elmntToView = document.getElementById(hash.replace("#", ""));
       elmntToView.scrollIntoView({behavior: "instant"}); 
       window.location.hash = hash
+    },
+    switchDark(){
+      let nav = document.getElementById('navbar')
+      let body = document.getElementsByTagName('body')[0]
+      let cards = document.getElementsByClassName('card')
+      let toBeTransforms = [body, ...cards]
+      if(!this.darkMode){
+        this.darkMode = true
+        nav.classList.add('navbar-dark')
+        nav.classList.add('bg-dark')
+        nav.classList.remove('navbar-light')
+        nav.classList.remove('bg-light')
+        for (let index = 0; index < toBeTransforms.length; index++) {
+          const ele = toBeTransforms[index];
+          ele.style.color = 'white'
+          ele.style.backgroundColor = 'black'
+        }
+        [...document.getElementsByClassName('text-secondary')].forEach((ele) => {
+          ele.classList.add('color-light-gray')
+        });
+        [...document.getElementsByClassName('link-change-color-when-change-mode'),
+         ...document.getElementsByClassName('btn-link')].forEach((ele) => {
+          ele.classList.add('color-light-blue')
+        });
+      }else{
+        this.darkMode = false
+        nav.classList.remove('navbar-dark')
+        nav.classList.remove('bg-dark')
+        nav.classList.add('navbar-light')
+        nav.classList.add('bg-light')
+        for (let index = 0; index < toBeTransforms.length; index++) {
+          const ele = toBeTransforms[index];
+          ele.style.color = '#212529'
+          ele.style.backgroundColor = '#fff'
+        }
+        [...document.getElementsByClassName('text-secondary')].forEach((ele) => {
+          ele.classList.remove('color-light-gray')
+        });
+        [...document.getElementsByClassName('link-change-color-when-change-mode'),
+         ...document.getElementsByClassName('btn-link')].forEach((ele) => {
+          ele.classList.remove('color-light-blue')
+        });
+      }
+      
     }
   }
 }
 </script>
+<style>
+  .color-light-gray{
+    color: #D3D3D3!important
+  }
+  .color-light-blue{
+    color: lightblue!important;
+  }
+</style>
 <style scoped>
   .smart-scroll{
     position: fixed;

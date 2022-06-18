@@ -24,7 +24,7 @@
 						<p>Hi, I'm a senior at National Taiwan Normal University (NTNU). Eason is the same pronunciation as my Chinese name 怡升 (I-Sheng), which means moving onward and upward with a joyful mind.</p>
 						<p>I am a passionate researcher. So far, I have participated in several research projects and written 7 papers in AI, Human-Computer Interaction, Education and Blockchain.</p>
 						<p>Moreover, I love to use my programming skills and creativity to solve problems. Currently, I serve as Research Assistant at school and Blockchain R&D Engineer at Cohart.co.</p>
-						<p>I plan to start my PhD in US or UK in 2023 Fall. Now I'm looking for program, lab, professor, and scholarship. If you have potential opportunity, don't hesitate to get in touch with me<span class="d-md-none">.</span><span class="d-md-inline d-none"> at <a target="_blank" href = "mailto: eason.tw.chen@gmail.com">eason.tw.chen@gmail.com</a></span></p>	
+						<p>I plan to start my PhD in US or UK in 2023 Fall. Now I'm looking for program, lab, professor, and scholarship. If you have potential opportunity, don't hesitate to get in touch with me<span class="d-md-none">.</span><span class="d-md-inline d-none"> at <a target="_blank" class="link-change-color-when-change-mode" href = "mailto: eason.tw.chen@gmail.com">eason.tw.chen@gmail.com</a></span></p>	
 					</div>
 				</div>
 			</div>
