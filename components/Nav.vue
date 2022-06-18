@@ -35,6 +35,9 @@
           <li class="nav-item active">
             <a class="nav-link" href="#Languages" @click.prevent="to">Languages</a>
           </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#Recommendations" @click.prevent="to">Recommendations</a>
+          </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
           </li>

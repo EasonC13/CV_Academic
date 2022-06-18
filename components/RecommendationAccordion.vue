@@ -1,5 +1,5 @@
 <template lang="">
-  <div>
+  <div class="" id="Recommendations">
     <h2>Recommendations</h2>
     <div class="accordion" id="accordionTestimonial">
       <div class="card" v-for="(recommendation, index) in recommendations" :key="index">
