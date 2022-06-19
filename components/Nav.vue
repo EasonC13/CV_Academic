@@ -85,7 +85,7 @@ export default {
     // detect dark mode
     if(window.matchMedia &&
        window.matchMedia('(prefers-color-scheme: dark)').matches &&
-       (await cookieStore.get("useDarkMode")).value != 'false'){
+       (Boolean(window.cookieStore) && await cookieStore.get("useDarkMode")).value != 'false'){
       await this.switchDark()
     }
 
@@ -124,6 +124,7 @@ export default {
       window.location.hash = hash
     },
     async setUseDarkModeCookie(bool){
+      if (!window.cookieStore) return;
       const day = 24 * 60 * 60 * 1000;
       console.log('cookieStore.set')
       await cookieStore.set({
@@ -134,9 +135,12 @@ export default {
     },
     async switchDark(){
       let nav = document.getElementById('navbar')
-      let body = document.getElementsByTagName('body')[0]
-      let cards = document.getElementsByClassName('card')
-      let toBeTransforms = [body, ...cards]
+      
+      let toBeTransforms = [
+        document.getElementsByTagName('body')[0],
+        ...document.getElementsByClassName('card'),
+        ...document.getElementsByClassName('transform-darkmode'),
+        ]
       if(!this.darkMode){
         this.darkMode = true
         await this.setUseDarkModeCookie(true)

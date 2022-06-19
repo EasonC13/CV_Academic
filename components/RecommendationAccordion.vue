@@ -6,7 +6,7 @@
         <div class="" :id="`accordionTestimonialHeading_${index}`">
           <h5 class="ml-3 mb-0">
             <div class="" type="button" data-toggle="collapse" :data-target="`#accordionTestimonialCollapse_${index}`" aria-expanded="true" :aria-controls="`accordionTestimonialCollapse_${index}`">
-              <div class="d-flex flex-row align-items-center">
+              <div class="d-flex flex-row align-items-center transform-darkmode">
                 <img :src="recommendation.image" width="50" class="rounded-circle">
                 <div class="d-flex flex-column ml-2">
                   <span>{{recommendation.name}}</span>
