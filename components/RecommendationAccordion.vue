@@ -42,7 +42,7 @@ export default {
           title: 'Software Engineer at Cohart',
           relation: 'Khánh is working with Eason on the same team',
           date: 'June 25, 2022',
-          image: '/assets/recommendation_imgs/khanh.jpg',
+          image: '/assets/recommendation_imgs/Khanh.jpg',
           text_full: `I have been working with Eason for a few months now. It was my job to integrate his work on Cohart's NFT minting smart contracts. I had no trouble reading and applying his works since they were well-documented and easy to understand. He has also been very supportive.\n\nEason is always well-structured, fully-prepared, and excellent at presenting his work. I was also impressed with his calm and positive attitude when we encountered any issues.\n\nIt was a pleasure to work with him and I highly recommend him to anyone who needs to research and develop blockchain, machine learning, or AI.`,
           text: `I have been working with Eason for a few months now. It was my job to integrate his work on Cohart's NFT minting smart contracts. I had no trouble reading and applying his works since they were well-documented and easy to understand. He has also been very supportive.\n\nEason is always well-structured, fully-prepared, and excellent at presenting his work. I was also impressed with his calm and positive attitude when we encountered any issues.\n\nIt was a pleasure to work with him and I highly recommend him to anyone who needs to research and develop blockchain, machine learning, or AI.`,
         },
