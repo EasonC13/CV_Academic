@@ -28,33 +28,32 @@
               target="_blank"
               rel="tooltip"
               title=""
-              >Click here to view my CV (PDF)</a
+              >CV (PDF)</a
             >
             <!-- <a class="ml-3 btn btn-primary btn-icon" href="public/Eason_CV.pdf" target="_blank" rel="tooltip" title="">中文版網頁</a> -->
             <hr class="d-md-none" />
           </div>
           <div class="order-md-1">
             <p>
-              Hi, I'm a senior at National Taiwan Normal University (NTNU).
-              Eason is the same pronunciation as my Chinese name 怡升 (I-Sheng),
-              which means moving onward and upward with a joyful mind.
+              Eason is a senior at National Taiwan Normal University (NTNU). The
+              meaning of his name 'Eason' originated from his Chinese name 怡升
+              (I-Sheng), which is moving onward and upward with a joyful mind.
             </p>
             <p>
-              I am a passionate researcher. So far, I have participated in
-              several research projects and written 7 papers in AI,
-              Human-Computer Interaction, Education and Blockchain.
+              He is a passionate researcher. As an undergraduate student, he
+              participated in several research projects and wrote seven papers
+              in AI, Human-Computer Interaction, Education, and Blockchain.
             </p>
             <p>
-              Moreover, I love to use my programming skills and creativity to
-              solve problems. Currently, I serve as Research Assistant at school
-              and Blockchain R&D Engineer at Cohart.co.
+              Moreover, He loves to use programming skills and creativity to
+              solve problems. Currently, he serve as Research Assistant at
+              school and Blockchain R&D Engineer at Cohart.co.
             </p>
             <p>
-              I plan to start my PhD in US or UK in 2023 Fall. Now I'm looking
-              for program, lab, professor, and scholarship. If you have
-              potential opportunity, don't hesitate to get in touch with me<span
-                class="d-md-none"
-                >.</span
+              Eason plans to start his Ph.D. in US or UK in 2023 Fall. Now he's
+              looking for program, lab, professor, and scholarship. If you have
+              a potential opportunity, don't hesitate to get in touch with
+              him<span class="d-md-none">.</span
               ><span class="d-md-inline d-none">
                 at
                 <a

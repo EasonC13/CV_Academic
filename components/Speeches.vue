@@ -16,6 +16,12 @@
       </ul>
     </div>
     <div>
+      <h3 class="h5 mb-1">PyCon APAC</h3>
+      <ul>
+        <li>2022/09 Tutorial: Let’s Issue NFT by Brownie in 90 mins</li>
+      </ul>
+    </div>
+    <div>
       <h3 class="h5 mb-1">
         Conference for Open Source Coders, Users and Promoters (COSCUP)
       </h3>

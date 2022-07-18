@@ -2,7 +2,7 @@
   <div class="" id="Honors">
     <h2>Honors & Awards</h2>
     <ul>
-      <li>PyCon APAC Young Inspiring (2022)</li>
+      <li>Young Inspirers at PyCon APAC (2022)</li>
       <li>Five Virtue Awards at NTNU Graduation Ceremony (2022)</li>
       <li>Excellent Student Award and Scholarship at NTNU (2021)</li>
       <li>Dean's List at NTNU (2021)</li>
