@@ -35,25 +35,25 @@
           </div>
           <div class="order-md-1">
             <p>
-              Eason is a senior at National Taiwan Normal University (NTNU). The
-              meaning of his name 'Eason' originated from his Chinese name 怡升
-              (I-Sheng), which is moving onward and upward with a joyful mind.
+              Eason is a senior at National Taiwan Normal University (NTNU). His
+              name 'Eason' comes from his Chinese name 怡升 (I-Sheng), which
+              means “moving onward and upward with a joyful mind”.
             </p>
             <p>
-              He is a passionate researcher. As an undergraduate student, he
+              He is a passionate researcher. As an undergraduate student, he has
               participated in several research projects and wrote seven papers
               in AI, Human-Computer Interaction, Education, and Blockchain.
             </p>
             <p>
-              Moreover, He loves to use programming skills and creativity to
-              solve problems. Currently, he serve as Research Assistant at
-              school and Blockchain R&D Engineer at Cohart.co.
+              Moreover, he loves to use programming skills and creativity to
+              solve problems. Currently, he serves as a Research Assistant at
+              school and also as a Blockchain R&D Engineer at Cohart.
             </p>
             <p>
-              Eason plans to start his Ph.D. in US or UK in 2023 Fall. Now he's
-              looking for program, lab, professor, and scholarship. If you have
-              a potential opportunity, don't hesitate to get in touch with
-              him<span class="d-md-none">.</span
+              Eason plans to start his Ph.D. in the US or UK in Fall 2023. Now
+              he's looking for a program, lab, professor, and scholarship. If
+              you have a potential opportunity, please don't hesitate to get in
+              touch with him<span class="d-md-none">.</span
               ><span class="d-md-inline d-none">
                 at
                 <a
