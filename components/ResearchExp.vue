@@ -13,8 +13,8 @@
         </li>
         <li>Compared the user experience of different chatbot designs</li>
         <li>
-          Results published to CHI 2022, TAICHI 2021, and workshop of WWW 2022
-          as paper
+          Results published to CHI-EA'2022, TAICHI 2021, and workshop of WWW
+          2022 as paper
         </li>
       </ul>
     </div>
