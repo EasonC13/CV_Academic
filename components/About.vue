@@ -40,12 +40,13 @@
               means “moving onward and upward with a joyful mind”.
             </p>
             <p>
-              He is a passionate researcher. As an undergraduate student, he has
-              participated in several research projects and wrote seven papers
-              in AI, Human-Computer Interaction, Education, and Blockchain.
+              Eason is a passionate researcher. As an undergraduate student, he
+              has participated in several research projects and wrote seven
+              papers in AI, Human-Computer Interaction, Education, and
+              Blockchain.
             </p>
             <p>
-              Moreover, he loves to use programming skills and creativity to
+              Moreover, Eason loves to use programming skills and creativity to
               solve problems. Currently, he serves as a Research Assistant at
               school and also as a Blockchain R&D Engineer at Cohart.
             </p>
