@@ -2,7 +2,12 @@
   <div id="Publications">
     <h2>Publications (Selected)</h2>
     <ul>
-      <!-- <li>Wu, C.-L., Su, Y.-D., <b>Chen, E.</b>, Chen, P.-Z., Chang Y.-L., Chen, H.-C. (2022). Development and Validation of Interactive Creativity Task Platform. Frontiers in Psychology, 13, Article 771820 (SSCI).</li> -->
+      <li>
+        Wu, C.-L., Su, Y.-D., <b>Chen, E.</b>, Chen, P.-Z., Chang, Y.-L. & Chen,
+        H.-C. (2022). Development and Validation of Interactive Creativity Task
+        Platform. <l>Frontiers in Psychology, 13</l>, Article 954946. (SSCI, IF
+        = 4.232, 35/147 in Multidisciplinary Psychology, Q1)
+      </li>
       <li>
         <b>Chen, E.</b>, Tseng, Y.-H., You, A., Lo, K.-P., Lin, C. (2022).
         Preliminary Design of an AI Service to Assist Self-regulated Learning by
