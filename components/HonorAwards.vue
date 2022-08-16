@@ -10,7 +10,10 @@
       <li>First Place of NTNU’s Freshman Oral Expression Competition (2019)</li>
 
       <!-- <li>Collected all five of the NTNU's Five Virtue Awards: Moral, Intellectual, Physical, Social, and Aesthetic</li> -->
-      <!-- <li>2nd Place at Hacks In Taiwan Conference (HITCON) 2021 Malware Playground Competition</li> -->
+      <li>
+        2nd Place at Hacks In Taiwan Conference (HITCON) 2021 Malware Playground
+        Competition
+      </li>
     </ul>
   </div>
 </template>

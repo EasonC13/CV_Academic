@@ -11,8 +11,8 @@
       <li>
         <b>Chen, E.</b>, Tseng, Y.-H., You, A., Lo, K.-P., Lin, C. (2022).
         Preliminary Design of an AI Service to Assist Self-regulated Learning by
-        Edge Computing. Paper will present as Poster at International Conference
-        on Artificial Intelligence in Education (AIED'22).
+        Edge Computing. Paper present as Poster and Demo at International
+        Conference on Artificial Intelligence in Education (AIED'22).
       </li>
       <li>
         <b>Chen, E.</b>, Tseng, Y.-H. (2022). A decision model for designing NLP

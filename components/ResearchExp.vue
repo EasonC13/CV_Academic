@@ -44,7 +44,7 @@
         </li>
         <li>
           Developed interactive creativity task platform and analyze the data,
-          results published to SSCI journal
+          results published to Q1 SSCI journal
         </li>
         <li>
           Using GPT-2, GPT-3 and BERT to build NLP chatbots with emotional and
