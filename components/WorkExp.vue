@@ -19,11 +19,11 @@
       <h3 class="h5 mb-1">R&D Engineer at FiO.one (2019/06 - 2021/12)</h3>
       <ul>
         <li>
-          Built easy-to-use Blockchain Applications on Ethereum and IOTA for
-          high school students
+          Built easy-to-use and GDPR compliance Blockchain Applications on
+          Ethereum and IOTA for Educational Purpose
         </li>
         <li>
-          Received Best Intern Award for my implementation of data
+          Received Best Intern Award for the implementation of data
           authentication process on FiO’s product
         </li>
         <li>

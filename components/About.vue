@@ -30,6 +30,14 @@
               title=""
               >CV (PDF)</a
             >
+            <a
+              class="btn btn-primary btn-icon ml-2"
+              href="https://scholar.google.com.tw/citations?user=SMOPejMAAAAJ"
+              target="_blank"
+              rel="tooltip"
+              title=""
+              >Google Scholar</a
+            >
             <!-- <a class="ml-3 btn btn-primary btn-icon" href="public/Eason_CV.pdf" target="_blank" rel="tooltip" title="">中文版網頁</a> -->
             <hr class="d-md-none" />
           </div>

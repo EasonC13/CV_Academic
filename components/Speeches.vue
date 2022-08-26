@@ -26,9 +26,9 @@
         Conference for Open Source Coders, Users and Promoters (COSCUP)
       </h3>
       <ul>
-        <li>2022/08 - Talk: About NFT Marketplace you should know</li>
-        <li>2022/08 - Talk: Using Snorkel to Label and Augment your Data</li>
-        <li>2022/08 - Talk: How is it going at Google Summer of Code?</li>
+        <li>2022/08 - Speech: About NFT Marketplace you should know</li>
+        <li>2022/08 - Speech: Using Snorkel to Label and Augment your Data</li>
+        <li>2022/08 - Speech: How is it going at Google Summer of Code?</li>
         <li>
           2021/08 - Speech: The user experience design on Natural Language
           Generation Chatbot
@@ -50,7 +50,7 @@
       <ul>
         <li>
           2022/09 - Talk: As a student researcher, how show what you are made
-          of? (Expected)
+          of?
         </li>
         <li>2021/08 - Speech: How to Raise an NLP AI Chatbot?</li>
         <li>2020/08 - Speech: Can I use Python to control my computer?</li>

@@ -20,7 +20,7 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
+          <!-- <li class="nav-item active">
             <a class="nav-link" href="#About" @click.prevent="to">About</a>
           </li>
           <li class="nav-item active">
@@ -65,7 +65,7 @@
             <a class="nav-link" href="#Recommendations" @click.prevent="to"
               >Recommendations</a
             >
-          </li>
+          </li> -->
           <!-- <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
           </li>
