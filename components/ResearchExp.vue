@@ -47,12 +47,12 @@
           results published to Q1 SSCI journal
         </li>
         <li>
-          Using GPT-2, GPT-3 and BERT to build NLP chatbots with emotional and
-          empathetic conversational abilities
+          Used GPT-2 and BERT to build NLP chatbots with emotional and
+          empathetic conversational abilities to accompany elders
         </li>
         <li>
-          Designed Integrated Data Export Pipeline by Google Cloud APIs, export
-          data as path analysis input
+          Implemented Integrated Data Export Pipeline by Flask, Vue, and Google
+          Cloud APIs, export data as path analysis input
         </li>
       </ul>
     </div>
