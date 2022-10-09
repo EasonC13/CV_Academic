@@ -1,6 +1,6 @@
 <template lang="">
   <div id="Publications">
-    <h2>Publications (Selected)</h2>
+    <h2>Publications</h2>
     <ul>
       <li>
         Wu, C.-L., Su, Y.-D., <b>Chen, E.</b>, Chen, P.-Z., Chang, Y.-L. & Chen,
@@ -32,7 +32,12 @@
         presented at the Programming Languages and the Law workshop at
         Principles of Programming Languages Conference (POPL'22).
       </li>
-      <!-- <li><b>Chen, E.</b>, Tseng, Y.-H., & Lo, K.-P. (2021). Focus Plus: Detect Learner's Distraction by Web Camera in Distance Teaching. Paper presented at the 2021 National Chair Professorship Academic Series: Teaching and Learning in Trans - pandemic Era: Idea Innovation and Practice Transformation. </li> -->
+      <li>
+        <b>Chen, E.</b>, Tseng, Y.-H., & Lo, K.-P. (2021). Focus Plus: Detect
+        Learner's Distraction by Web Camera in Distance Teaching. Paper
+        presented at the 2021 National Chair Professorship Academic Series:
+        Teaching and Learning in Pandemic Era.
+      </li>
       <li>
         <b>Chen, E.</b> & Tseng, Y.-H. (2021). A chatbot platform that allow
         custom avatars and emotions and can provides multiple replies. Demo
