@@ -18,7 +18,7 @@
     <div>
       <h3 class="h5 mb-1">PyCon APAC</h3>
       <ul>
-        <li>2022/09 Tutorial: Let’s Issue NFT by Brownie in 90 mins</li>
+        <li>2022/09 Tutorial: Let's Issue NFT by Brownie in 90 mins</li>
       </ul>
     </div>
     <div>
@@ -49,7 +49,7 @@
       </h3>
       <ul>
         <li>
-          2022/09 - Talk: As a student researcher, how show what you are made
+          2022/09 - Speech: As a student researcher, how show what you are made
           of?
         </li>
         <li>2021/08 - Speech: How to Raise an NLP AI Chatbot?</li>
