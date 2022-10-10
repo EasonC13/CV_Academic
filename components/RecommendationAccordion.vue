@@ -99,7 +99,7 @@ export default {
         {
           name: "Niall Roche",
           title:
-            "Head of Distributed Systems Engineering at Mishcon de Reya LLP & Senior Teaching Fellow at UCL School of Management",
+            "Senior Teaching Fellow at UCL School of Management & Blockchain Researcher and Engineer at UCL Centre for Blockchain Technologies",
           relation: `Niall was Eason's mentor at Google Summer of Code`,
           date: "September 24, 2021",
           image: "/assets/recommendation_imgs/NiallRoche.png",
