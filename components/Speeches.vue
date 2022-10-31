@@ -1,6 +1,10 @@
 <template lang="">
   <div class="" id="Speeches">
     <h2>Public Speaking & Community Experience</h2>
+    <p>
+      Eason delivered various Lectures at community, student clubs, course
+      lecture, and workshops. The following are selected.
+    </p>
     <div>
       <h3 class="h5 mb-1">NTNU Google Developer Student Club (NTNU GDSC)</h3>
       <ul>
@@ -57,14 +61,23 @@
       </ul>
     </div>
     <div>
-      <h3 class="h5 mb-1">Others (Selected)</h3>
+      <h3 class="h5 mb-1">Mobile Open Platform Conference (MOPCON)</h3>
+      <ul>
+        <li>
+          2022/10 - Speech: Focus, lets AI record and analyze your computer
+          usage
+        </li>
+      </ul>
+    </div>
+    <!-- <div>
+      <h3 class="h5 mb-1">Others</h3>
       <ul>
         <li>
           Delivered various Lectures at community, student clubs, course
           lecture, and workshops
         </li>
       </ul>
-    </div>
+    </div> -->
   </div>
 </template>
 <script>
