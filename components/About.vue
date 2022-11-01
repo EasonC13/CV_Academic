@@ -49,9 +49,8 @@
             </p>
             <p>
               Eason is a passionate researcher. As an undergraduate student, he
-              has participated in several research projects and wrote eight
-              papers in AI, Human-Computer Interaction, Education, and
-              Blockchain.
+              has participated in several research projects and wrote 8 papers
+              in AI, Human-Computer Interaction, Education, and Blockchain.
             </p>
             <p>
               Moreover, Eason loves to use programming skills and creativity to
