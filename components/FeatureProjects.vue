@@ -1,7 +1,7 @@
 <template lang="">
   <div id="Publications">
     <h2>
-      Feature Projects <br class="d-md-none" /><span class="h5"
+      Featured Projects <br class="d-md-none" /><span class="h5"
         >(Click to know more)</span
       >
     </h2>
