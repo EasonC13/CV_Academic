@@ -9,7 +9,7 @@
         </h3>
         <ul>
           <!-- <li>2018 - 2023 (Excepted)</li> -->
-          <li>Major in Learning Science (learn how to learn)</li>
+          <li>Major in Learning Sciences (learn how to learn)</li>
           <li>GPA 4.12/4.3</li>
         </ul>
       </div>
