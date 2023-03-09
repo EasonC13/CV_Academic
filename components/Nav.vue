@@ -155,8 +155,8 @@ export default {
       this.hideNav();
       let arr = event.target.href.split("/");
       let hash = arr[arr.length - 1];
-      let elmntToView = document.getElementById(hash.replace("#", ""));
-      elmntToView.scrollIntoView({ behavior: "instant" });
+      let elementToView = document.getElementById(hash.replace("#", ""));
+      elementToView.scrollIntoView({ behavior: "instant" });
       window.location.hash = hash;
     },
     async setUseDarkModeCookie(bool) {
@@ -166,7 +166,7 @@ export default {
       await cookieStore.set({
         name: "useDarkMode",
         value: bool,
-        expires: Date.now() + day,
+        expires: Date.now() + day, //
       });
     },
     async switchDark() {
