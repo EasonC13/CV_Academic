@@ -13,8 +13,8 @@
         </li>
         <li>Compared the user experience of different chatbot designs</li>
         <li>
-          Results published to TAICHI 2021, CHI-EA'2022, and UCNLP workshop at
-          WWW 2022 as paper
+          Results published to TAICHI 2021, CHI-EA'2022, CHI-EA'2023, and UCNLP
+          workshop at WWW 2022 as paper
         </li>
       </ul>
     </div>
@@ -32,7 +32,7 @@
         <li>
           Co-work with various open-source contributors from US, UK, and India
         </li>
-        <li>Results presented as paper at workshop at POPL 2022</li>
+        <li>Results present at workshop of POPL 2022 and WWW 2023 as paper</li>
       </ul>
     </div>
     <div>

@@ -58,10 +58,11 @@
               school and also as a Blockchain R&D Engineer at Cohart.
             </p>
             <p>
-              Eason plans to start his Ph.D. in the US or UK in Fall 2023. Now
-              he's looking for a program, lab, professor, and scholarship. If
-              you have a potential opportunity, please don't hesitate to get in
-              touch with him<span class="d-md-none">.</span
+              Eason will start his Ph.D. at Carnegie Mellon University
+              Human-Computer Interaction Institute in Fall 2023. Now he's
+              looking for scholarship and co-work opportunities. If you have a
+              potential opportunity, please don't hesitate to get in touch with
+              him<span class="d-md-none">.</span
               ><span class="d-md-inline d-none">
                 at
                 <a

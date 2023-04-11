@@ -4,8 +4,17 @@
     <div class="row">
       <div class="col-md">
         <h3 class="h5">
-          Bachelor of Information Science at National Taiwan Normal University
-          (2018 - 2023)
+          PhD in Human-Computer Interaction Institute (2023 - 2028 Expected)<br />
+          <span style="font-style: normal">School of Computer Science, </span
+          >Carnegie Mellon University
+        </h3>
+        <ul>
+          <!-- <li>2018 - 2023 (Excepted)</li> -->
+          <li>Will begin in Fall 2023 with full financial support.</li>
+        </ul>
+        <h3 class="h5">
+          Bachelor of Information Science (2018 - 2023)<br />
+          National Taiwan Normal University
         </h3>
         <ul>
           <!-- <li>2018 - 2023 (Excepted)</li> -->

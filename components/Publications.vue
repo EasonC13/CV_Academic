@@ -27,6 +27,25 @@ export default {
   data() {
     return {
       papers: [
+        // {
+        //   markdown:
+        //     "**Chen, E.**, Huang, R., Chen, H. S, Tseng, Y. H., Li, L. Y. (2023/07). GPTutor: a ChatGPT-powered programming tool for code explanation. Paper will be appeared as Late Breaking Work at International Conference on Artificial Intelligence in Education (AIED 2023).",
+        //   // pdf_link:
+        //   //   "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.954946/full",
+        //   // doi: "https://doi.org/10.3389/fpsyg.2022.954946",
+        // },
+        {
+          markdown:
+            "**Chen, E.**, Roche, N., Tseng, Y. H., Hernandez, W., Shangguan, J, & A, Moore. (2023/05). Conversion of Legal Agreements into Smart Legal Contracts using NLP. Paper will be appeared at Workshop on Natural Language Processing for Knowledge Graph Creation in conjunction with The Web Conference (WWW’23)",
+          pdf_link: "https://arxiv.org/pdf/2210.08954.pdf",
+          // doi: "https://doi.org/10.3389/fpsyg.2022.954946",
+        },
+        {
+          markdown:
+            "**Chen, E.** (2023/04) Which Factors Predict the Chat Experience of a Natural Language Generation Dialogue Service? Paper will be appeared at Student Research Competition in Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA 2023).",
+          // pdf_link:            "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.954946/full",
+          // doi: "https://doi.org/10.3389/fpsyg.2022.954946",
+        },
         {
           markdown:
             "Ching-Lin Wu, Yu-Der Su, **Eason Chen**, Pei-Zhen Chen, Yu-Lin Chang and Hsueh-Chih Chen (2022). Development and Validation of Interactive Creativity Task Platform. Frontiers in Psychology, 13, Article 954946. (SSCI, IF = 4.232, 35/147 in Multidisciplinary Psychology, Q1)",
@@ -53,12 +72,12 @@ export default {
           pdf_link: "https://arxiv.org/pdf/2210.17209",
           doi: "https://doi.org/10.1145/3491101.3516800",
         },
-        {
-          markdown:
-            "**Eason Chen**, Niall Roche, Yuen-Hsien Tseng, Walter Hernandez, and Jiangbo Shangguan (2022/03). Conversion of Legal Agreements into Smart Legal Contracts using NLP. Technical Report at Google Summer of Code 2021",
-          pdf_link: "https://arxiv.org/pdf/2210.08954.pdf",
-          doi: "https://doi.org/10.48550/arXiv.2210.08954",
-        },
+        // {
+        //   markdown:
+        //     "**Eason Chen**, Niall Roche, Yuen-Hsien Tseng, Walter Hernandez, and Jiangbo Shangguan (2022/03). Conversion of Legal Agreements into Smart Legal Contracts using NLP. Technical Report at Google Summer of Code 2021",
+        //   pdf_link: "https://arxiv.org/pdf/2210.08954.pdf",
+        //   doi: "https://doi.org/10.48550/arXiv.2210.08954",
+        // },
         {
           markdown:
             "Niall Roche, Walter Hernandez, **Eason Chen**, Jérôme Siméon, Dan Selman (2022/01). Ergo--a programming language for Smart Legal Contracts. Paper presented at the Programming Languages and the Law workshop at Principles of Programming Languages Conference 2022 (POPL)",
