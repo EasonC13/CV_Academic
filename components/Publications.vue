@@ -12,6 +12,9 @@
             <i class="fa fa-file-pdf-o ml-1"></i>
           </a>
         </span>
+        <!-- <span v-if="paper.doi">
+          <a :href="paper.doi" target="_blank" class="link-primary"> [doi] </a>
+        </span> -->
       </li>
     </ul>
   </div>
@@ -36,15 +39,21 @@ export default {
         // },
         {
           markdown:
-            "**Chen, E.**, Roche, N., Tseng, Y. H., Hernandez, W., Shangguan, J, & A, Moore. (2023/05). Conversion of Legal Agreements into Smart Legal Contracts using NLP. Paper will be appeared at Workshop on Natural Language Processing for Knowledge Graph Creation in conjunction with The Web Conference (WWW’23)",
-          pdf_link: "https://arxiv.org/pdf/2210.08954.pdf",
-          // doi: "https://doi.org/10.3389/fpsyg.2022.954946",
+            "**Eason Chen**, Ray Huang, Han-Shin Chen, Yuen-Hsien Tseng, Liang-Yi Li (2023/07). GPTutor: a ChatGPT-powered programming tool for code explanation. Paper will be appeared as poster at at International Conference on Artificial Intelligence in Education 2023 (AIED)",
+          pdf_link: "https://arxiv.org/pdf/2305.01863.pdf",
+          doi: "https://doi.org/10.48550/arXiv.2305.01863",
         },
         {
           markdown:
-            "**Chen, E.** (2023/04) Which Factors Predict the Chat Experience of a Natural Language Generation Dialogue Service? Paper will be appeared at Student Research Competition in Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA 2023).",
-          // pdf_link:            "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.954946/full",
-          // doi: "https://doi.org/10.3389/fpsyg.2022.954946",
+            "**Eason Chen**, Niall Roche, Yuen-Hsien Tseng, Walter Hernandez, Jiangbo Shangguan, and Alastair Moore (2023/05). Conversion of Legal Agreements into Smart Legal Contracts using NLP. Paper published at Workshop on Natural Language Processing for Knowledge Graph Creation in conjunction with The Web Conference (WWW’23)",
+          pdf_link: "https://arxiv.org/pdf/2210.08954.pdf",
+          doi: "https://doi.org/10.1145/3543873.3587554",
+        },
+        {
+          markdown:
+            "**Eason Chen** (2023/04) Which Factors Predict the Chat Experience of a Natural Language Generation Dialogue Service? Paper published at Student Research Competition in Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA 2023).",
+          pdf_link: "https://arxiv.org/pdf/2304.10785.pdf",
+          doi: "https://doi.org/10.1145/3544549.3583940",
         },
         {
           markdown:
