@@ -8,13 +8,25 @@
           class="markdown_inline"
         ></span>
         <span v-if="paper.pdf_link">
-          <a :href="paper.pdf_link" target="_blank" class="link-primary">
+          <a
+            :href="paper.pdf_link"
+            target="_blank"
+            class="link-primary"
+            title="Paper PDF"
+          >
             <i class="fa fa-file-pdf-o ml-1"></i>
           </a>
         </span>
-        <!-- <span v-if="paper.doi">
-          <a :href="paper.doi" target="_blank" class="link-primary"> [doi] </a>
-        </span> -->
+        <span v-if="paper.doi">
+          <a
+            :href="paper.doi"
+            target="_blank"
+            class="link-primary"
+            title="Paper DOI"
+          >
+            <i class="fa fa-info-circle ml-1"></i>
+          </a>
+        </span>
       </li>
     </ul>
   </div>
