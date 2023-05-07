@@ -63,7 +63,7 @@ export default {
         },
         {
           markdown:
-            "**Eason Chen** (2023/04) Which Factors Predict the Chat Experience of a Natural Language Generation Dialogue Service? Paper published at Student Research Competition in Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA 2023).",
+            "**Eason Chen** (2023/04) Which Factors Predict the Chat Experience of a Natural Language Generation Dialogue Service? Paper received 2nd Place at Student Research Competition in Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA 2023). 🏆🥈 ",
           pdf_link: "https://arxiv.org/pdf/2304.10785.pdf",
           doi: "https://doi.org/10.1145/3544549.3583940",
         },
