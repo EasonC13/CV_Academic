@@ -26,3 +26,13 @@ jobs:
           build_dir: .output/public
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Mirror
+        run: |
+          git clone --mirror '$REPO'
+          cd CV_Academic
+          sed "s/'eason.best'/'eason.phd'/g" package.json > new_file.txt && mv new_file.txt package.json && rm new_file.txt
+          git add . && git commit -m "phd"
+          git push -f --mirror git@github.com:EasonC13/eason.phd.git
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
