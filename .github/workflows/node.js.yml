@@ -27,15 +27,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # - name: Mirror
-      #   run: |
-      #     git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com:EasonC13/CV_Academic.git
-      #     cd CV_Academic
-      #     git config --global user.name 'Your Name'
-      #     git config --global user.email 'your-username@users.noreply.github.com'
-      #     git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com:EasonC13/eason.phd.git
-      #     sed "s/'eason.best'/'eason.phd'/g" package.json > new_file.txt && mv new_file.txt package.json && rm new_file.txt
-      #     git add package.json && git commit -m "eason.phd"
-      #     git push -f --mirror git@github.com:EasonC13/eason.phd.git
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Mirror
+        run: |
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/EasonC13/CV_Academic.git
+          cd CV_Academic
+          git config --global user.name 'Your Name'
+          git config --global user.email 'your-username@users.noreply.github.com'
+          
+          sed "s/'eason.best'/'eason.phd'/g" package.json > new_file.txt && mv new_file.txt package.json && rm new_file.txt
+          git add package.json && git commit -m "eason.phd"
+          git push -f --mirror https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/EasonC13/eason.phd.git
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
