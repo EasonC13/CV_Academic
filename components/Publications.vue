@@ -53,7 +53,7 @@ export default {
           markdown:
             "**Eason Chen**, Ray Huang, Han-Shin Chen, Yuen-Hsien Tseng, Liang-Yi Li (2023/07). GPTutor: a ChatGPT-powered programming tool for code explanation. Paper will be appeared as poster at at International Conference on Artificial Intelligence in Education 2023 (AIED)",
           pdf_link: "https://arxiv.org/pdf/2305.01863.pdf",
-          doi: "https://doi.org/10.48550/arXiv.2305.01863",
+          doi: "https://doi.org/10.1007/978-3-031-36336-8_50",
         },
         {
           markdown:
