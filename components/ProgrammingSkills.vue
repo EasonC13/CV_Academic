@@ -3,18 +3,18 @@
     <h2>Programming Skills</h2>
     <ul>
       <li>
-        <b>Blockchain</b>: Solidity, Hardhat, Truffle, Brownie, IOTA, Bitcoin,
-        IPFS, Smart Legal Contract, OpenCerts
+        <b>Blockchain</b>: Sui, Move, Solidity, Hardhat, Truffle, Brownie, IOTA,
+        Bitcoin, IPFS, Smart Legal Contract, OpenCerts
       </li>
       <li>
         <b>AI & Data</b>: PyTorch, TensorFlow, Scikit-Learn, Pandas, Matplotlib,
-        Snorkel, SHAP, GPT-3, SPSS, SmartPLS
+        Snorkel, SHAP, GPT-3, LangChain, SPSS, SmartPLS
       </li>
       <li>
         <b>Frontend</b>: Vue, React, Angular, TypeScript, Tensorflow.js,
         IndexedDB, Bootstrap, Tailwind CSS, Selenium
       </li>
-      <li><b>Backend</b>: FastAPI, Flask, Django, Expresss.js</li>
+      <li><b>Backend</b>: FastAPI, Flask, Django, Expresss.js, Next</li>
       <li>
         <b>Database</b>: MongoDB, PostgreSQL, Redis, LevelDB, Elasticsearch,
         Weaviate

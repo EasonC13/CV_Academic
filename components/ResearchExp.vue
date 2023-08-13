@@ -36,7 +36,7 @@
       </ul>
     </div>
     <div>
-      <h3 class="h5 mb-1">Research Assistant (2019/04 - Present)</h3>
+      <h3 class="h5 mb-1">Research Assistant (2019/04 - 2023/08)</h3>
       <ul>
         <li>
           Served as RA for 7 professors with various topics at NTNU and National

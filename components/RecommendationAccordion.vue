@@ -72,7 +72,7 @@ export default {
         {
           name: "Shyevin S'ng",
           title: "Co-Founder at Cohart",
-          relation: "Shyevin managed Eason directly",
+          relation: "Shyevin managed Eason directly at Cohart",
           date: "April 11, 2023",
           image: "/assets/recommendation_imgs/shyevin.jpeg",
           text_full: `It's been a pleasure to work with Eason, who is not only easygoing but also highly knowledgeable. From the start, I noticed that Eason is a super smart, hardworking, and flexible teammate who is always eager to learn new technology. In addition, his impressive research skills have made him a valuable asset to the team. Eason's positive attitude and collaborative nature make him a great team player. I have no doubt that he will achieve great things in the future, and I am excited to see his continued success.`,

@@ -48,19 +48,15 @@
               means “moving onward and upward with a joyful mind”.
             </p>
             <p>
-              Eason is a passionate researcher. As an undergraduate student, he
-              has participated in several research projects and wrote 8 papers
-              in AI, Human-Computer Interaction, Education, and Blockchain.
-            </p>
-            <p>
-              Moreover, Eason loves to use programming skills and creativity to
-              solve problems. Currently, he serves as a Research Assistant at
-              school and also as a Blockchain R&D Engineer at Cohart.
+              Eason is a passionate researcher who loves to use programming
+              skills and creativity to solve problems. As an undergraduate
+              student, he has participated in several research projects and
+              wrote 11 papers in AI, Human-Computer Interaction, Education, and
+              Blockchain.
             </p>
             <p>
               Eason will start his Ph.D. at Carnegie Mellon University
-              Human-Computer Interaction Institute in Fall 2023. Now he's
-              looking for scholarship and co-work opportunities. If you have a
+              Human-Computer Interaction Institute in Fall 2023. If you have a
               potential opportunity, please don't hesitate to get in touch with
               him<span class="d-md-none">.</span
               ><span class="d-md-inline d-none">
