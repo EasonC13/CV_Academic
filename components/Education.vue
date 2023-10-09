@@ -10,7 +10,19 @@
         </h3>
         <ul>
           <!-- <li>2018 - 2023 (Excepted)</li> -->
-          <li>Will begin in Fall 2023 with full financial support.</li>
+          <li>
+            Advisor:
+            <a
+              href="https://hcii.cmu.edu/people/ken-koedinger"
+              ,
+              target="_blank"
+              >Ken Koedinger</a
+            >
+          </li>
+          <li>
+            Research in Learning Sciences, Education Technologies, and Learning
+            Analytics
+          </li>
         </ul>
         <h3 class="h5">
           Bachelor of Information Science (2018 - 2023)<br />
