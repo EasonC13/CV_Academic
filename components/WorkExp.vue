@@ -16,7 +16,7 @@
             >GPTutor, a ChatGPT-powered programming tool for smart contract code
             explain</a
           >. Awarded a 50k grant from the Sui Foundation, and result presented
-          at AIED’23 and CSCW’23
+          as poster at AIED’23 and workshop at CSCW’23
         </li>
         <li>
           Led the Bucket Raffle System project, securing 1st place at Sui

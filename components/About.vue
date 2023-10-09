@@ -43,29 +43,19 @@
           </div>
           <div class="order-md-1">
             <p>
-              Eason is a senior at National Taiwan Normal University (NTNU). His
-              name 'Eason' comes from his Chinese name 怡升 (I-Sheng), which
-              means “moving onward and upward with a joyful mind”.
-            </p>
-            <p>
-              Eason is a passionate researcher who loves to use programming
-              skills and creativity to solve problems. As an undergraduate
-              student, he has participated in several research projects and
-              wrote 11 papers in AI, Human-Computer Interaction, Education, and
-              Blockchain.
-            </p>
-            <p>
-              Eason will start his Ph.D. at Carnegie Mellon University
-              Human-Computer Interaction Institute in Fall 2023. If you have a
-              potential opportunity, please don't hesitate to get in touch with
-              him<span class="d-md-none">.</span
-              ><span class="d-md-inline d-none">
+              Eason is a passionate researcher who loves to write papers and
+              travel. His research interest includes Learning Science,
+              Educational Techlogy, Learning Analytics, Natural Language
+              Processing, and Blockchain. If you have any cool ideas that could
+              potentially turn into research papers, don't hesitate to get in
+              touch with him at
+              <span class="d-md-inline d-none">
                 at
                 <a
                   target="_blank"
                   class="link-change-color-when-change-mode"
-                  href="mailto: eason.tw.chen@gmail.com"
-                  >eason.tw.chen@gmail.com</a
+                  href="mailto: EasonC13@cmu.edu"
+                  >EasonC13@cmu.edu</a
                 ></span
               >
             </p>

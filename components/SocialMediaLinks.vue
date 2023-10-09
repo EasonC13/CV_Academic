@@ -18,7 +18,7 @@
     ></a>
     <a
       class="btn btn-link btn-icon"
-      href="mailto: eason.tw.chen@gmail.com"
+      href="mailto: EasonC13@cmu.edu"
       target="_blank"
       rel="tooltip"
       title="Contact me by Email"
