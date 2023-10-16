@@ -48,7 +48,7 @@
               Educational Techlogy, Learning Analytics, Natural Language
               Processing, and Blockchain. If you have any cool ideas that could
               potentially turn into research papers, don't hesitate to get in
-              touch with him at
+              touch with him
               <span class="d-md-inline d-none">
                 at
                 <a
