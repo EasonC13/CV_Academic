@@ -43,12 +43,19 @@
           </div>
           <div class="order-md-1">
             <p>
-              Eason is a passionate researcher who loves to write papers and
-              travel. His research interest includes Learning Science,
-              Educational Techlogy, Learning Analytics, Natural Language
-              Processing, and Blockchain. If you have any cool ideas that could
-              potentially turn into research papers, don't hesitate to get in
-              touch with him
+              Hi, I’m Eason from CMU HCII. In high school, I was a problem
+              student, frequently skipping class and engrossed in gaming for
+              over 12 hours daily. Surprisingly, gaming taught me the value of
+              deliberate practice. Applying these strategies, I transformed my
+              academic performance, earning numerous university awards. These
+              experiences inspired me to research in Learning Sciences and
+              Human-Comter Interaction, eager to discover productivity-enhancing
+              educational tools. Ultimately, I aim to help others reach their
+              full their potential through education. Additionally, I’m
+              intrigued by the fair and transparency offered by Blockchain
+              Technology and have three years of Web3 industry experience. If
+              you have any cool ideas that could potentially turn into research
+              papers, don't hesitate to get in touch with me
               <span class="d-md-inline d-none">
                 at
                 <a
