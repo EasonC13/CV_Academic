@@ -37,6 +37,8 @@
 export default {
   setup() {
     // Replace the current URL with a new one
+  },
+  mounted() {
     window.location.replace("https://eason.phd");
   },
 };
