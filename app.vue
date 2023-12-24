@@ -33,3 +33,12 @@
     <Footer />
   </div>
 </template>
+<script>
+export default {
+  setup() {
+    // Replace the current URL with a new one
+    window.location.replace("https://eason.phd");
+  },
+};
+</script>
+<style></style>
